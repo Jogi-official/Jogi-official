@@ -52,4 +52,4 @@ Memory: 16GB DDR4;
 <br>
 <p align="center">" It is impossible to live without failing at something unless you live so cautiously that you might as well not have lived at all -in which case you fail by default " -J.K. Rowling </p>
 <h1></h1>
-<h3 align="center" >🎮 📷  ⚽ 💻 🏓 </h3>
+<h3 align="center" >🎮 🌟  🍟  🏆  📈 </h3>
