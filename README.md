@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Akash Joshi</h1>
 <p align="center"> Undergrad student at UPES Dehradun pursuing Bachelors in Computer science engineering with  specialization in AIML.</p>
 
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="100"/>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="100"/>
 </div>
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="100"/>
+</div>
+
 
 
 <br>
