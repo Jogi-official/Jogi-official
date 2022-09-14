@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Joshi</h1>
 <p align="center"> Undergrad student at UPES Dehradun pursuing Bachelors in Computer science engineering with  specialization in AIML.</p>
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Jogi-official&show_icons=true&count_private=true&theme=aura&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Jogi-official&layout=compact&hide_border=true&theme=aura&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Jogi-official&theme=radical&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
 
 
 
