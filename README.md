@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Joshi</h1>
 <p align="center"> Undergrad student at UPES Dehradun pursuing Bachelors in Computer science engineering with  specialization in AIML.</p>
 
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="Jogi-official" /></p>
 
 
 <br>
