@@ -28,10 +28,6 @@
 <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
 </p>
 
-
-
-<br>
-
 <h3 align="center">Rig</h3>
 
 <p align="center">
