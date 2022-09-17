@@ -16,7 +16,8 @@
   <br>
    <a href="https://github.com/Jog-official"><img alt="JOGI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jogi-official&custom_title=JOGI's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
+<br>
+ <br>
 <h3 align="center">Skill Stack</h3>
 
 
