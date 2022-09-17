@@ -6,6 +6,11 @@
 
 <br>
 <br>
+ <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jogi Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jogi-official&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
 
 <h3 align="center">Skill Stack</h3>
 
