@@ -26,7 +26,7 @@
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png">
 <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
-<img height="40" width="40" src="https://banner2.cleanpng.com/20180426/jgq/kisspng-machine-learning-deep-learning-artificial-intellig-stain-removal-5ae18569367ca5.0233959115247291932232.jpg">
+<img height="40" width="40" src="https://spng.subpng.com/20201204/rq/transparent-ai-icon-electronic-icon-artificial-intelligence-ic-5fc9c5b1ced8d2.6733058316070588658473.jpg">
 </p>
 
 <h3 align="center">Rig</h3>
