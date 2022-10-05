@@ -8,11 +8,7 @@
 
 <h1 align = "center"> GitHub Profile Status </h1>
   <br/>
-  <p align="center" >  
-  <a href="https://github.com/Jogi-official/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Jogi-officialshow_icons=true&theme=radical"/>
-  </a>
-  </p>
+ ![Metrics](https://metrics.lecoq.io/Jogi-official?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
   <br/>
   <br>
