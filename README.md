@@ -8,9 +8,11 @@
 
 <h1 align = "center"> GitHub Profile Status </h1>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jogi Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jogi-official&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
+  <p align="center" >  
+  <a href="https://github.com/Jogi-official/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Jogi-officialshow_icons=true&theme=radical"/>
+  </a>
+  </p>
 
   <br/>
   <br>
