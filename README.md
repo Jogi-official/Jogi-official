@@ -7,12 +7,11 @@
 <br>
 
 <h1 align = "center"> GitHub Profile Status </h1>
-  <br/>
- ![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
-  <br/>
-  <br>
-   <a href="https://github.com/Jog-official"><img alt="JOGI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jogi-official&custom_title=JOGI's%20Contribution%20Graph&theme=react-dark" /></a>
+![Metrics](https://metrics.lecoq.io/Jogi-official?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+
+ <a href="https://github.com/Jog-official"><img alt="JOGI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jogi-official&custom_title=JOGI's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <br>
  <br>
