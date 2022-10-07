@@ -52,6 +52,8 @@
 <img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png">
 <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
 <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/603/603201.png">
+<img height="40" width="40" src=<"https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png">
+
 </p>
 
 <h3 align="center">Rig</h3>
