@@ -35,7 +35,7 @@
 <br>
 <br>
 
- <a href="https://github.com/Jog-official"><img alt="JOGI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jogi-official&custom_title=JOGI's%20Contribution%20Graph&theme=react-dark" /></a>
+ <a href="https://github.com/Jog-official"><img alt="JOGI's Activity Graph" src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jogi-official&bg_color=ffffff&color=9e4c98&line=9e4c98&point=2d2a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
   <br/>
 <br>
  <br>
