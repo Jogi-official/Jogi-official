@@ -35,9 +35,6 @@
 <br>
 <br>
 
- <a href="https://github.com/Jog-official"><img alt="JOGI's Activity Graph" src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jogi-official&bg_color=ffffff&color=9e4c98&line=9e4c98&point=2d2a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
-  <br/>
-<br>
  <br>
 
 
