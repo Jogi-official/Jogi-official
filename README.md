@@ -49,6 +49,7 @@
 <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
 <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/603/603201.png">
 <img height="40" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+<img height="40" width="40" src= "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 
 </p>
 
