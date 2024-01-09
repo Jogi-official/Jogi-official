@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akash Joshi</h1>
-<p align="center"> Undergrad student at UPES Dehradun pursuing Bachelors in Computer science engineering with  specialization in AIML.</p>
-
+<p align="center"> Graduated from UPES Dehradun pursuing Bachelors in Computer science engineering with  specialization in AIML.</p>
+<h2 align="center">Working at <img src="https://files.readme.io/af2353f-small-OH-logo-WhiteLogo298x80jpg.png" height="25"></h2>
+<br></br>
+<div>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jogi-official&theme=algolia" alt="Jogi-official" /></p>
-
-
-<br>
-
+</div>
 <h1 align = "center"> GitHub Profile Status </h1>
 
 <hr>
@@ -44,29 +43,15 @@
 
 
 <p align = "center">
-<img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png">
+<img height="40" width="40" src="https://www.svgrepo.com/show/374144/typescript.svg">
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png">
 <img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
 <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/603/603201.png">
-<img height="40" width="40" src= "https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
-</p>
-
-
-<h3 align="center">Rig</h3>
-
-<p align="center">
-Asus TUFGaming<br>
+<img height="40" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
 
 </p>
-<p align="center">
-Processor: 8th Gen Intel Core i5-8500H;<br>
-Graphics: Dedicated NVIDIA GeForce GTX 1060 Ti GDDR6 6GB VRAM;<br>
-Memory: 16GB DDR4; 
-  Refresh Rate: 60hz.<br>
 
-<h1></h1>
-</p>
 <p align="center">
 📧 Reach me at: akashjoshiaj.rm@gmail.com
 <br>
